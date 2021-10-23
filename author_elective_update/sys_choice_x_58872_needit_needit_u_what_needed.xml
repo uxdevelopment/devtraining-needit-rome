@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-12-01 16:46:16</sys_created_on>
-            <sys_id>2eb494c6db742010d2f6f9341d961975</sys_id>
+            <sys_id>97e7f9ae1b933010924c877ddc4bcb88</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -35,6 +35,26 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-12-01 16:46:16</sys_updated_on>
             <value>legal1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>uxdev1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-22 21:12:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>766e3aee1b1b3010924c877ddc4bcb0a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-22 21:12:44</sys_updated_on>
+            <value>uxdev1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
